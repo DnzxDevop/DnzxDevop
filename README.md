@@ -9,5 +9,5 @@
     <img align="center" alt="Dn-Lua" height="40" src="https://cdn.discordapp.com/attachments/984251406380830730/1082812464024006768/lua-original.png">
     <img align="center" alt="Dn-Js" height="40" src="https://media.discordapp.net/attachments/984251406380830730/1082812465030635590/javascript-original.png">
     <img align="center" alt="Dn-Css" height="40" src="https://media.discordapp.net/attachments/984251406380830730/1082812464246300762/css3-original.png">
-    <img align="center" alt="Dn-Css" height="40" src="https://cdn.discordapp.com/attachments/984251406380830730/1082815465191116980/output-onlinegiftools.gif">
-    </div>
+    <img align="center" alt="Dn-Yodinha" height="60" src="https://cdn.discordapp.com/attachments/984251406380830730/1082815465191116980/output-onlinegiftools.gif">
+<div>
