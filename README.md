@@ -4,8 +4,8 @@ Opa, eu sou o Dn, e faço resources com foco na diversidade do FiveM!
 
 ## Our team
 <div align="center">
-        <a href="https://github.com/Dn099z1"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=thelindat&layout=compact&theme=dracula&hide_border=true&show_icons=true"/></a>
-        <a href="https://github.com/Dn099z1"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=LukeWasTakenn&layout=compact&theme=dracula&hide_border=true&show_icons=true"/></a>
+        <a href="https://github.com/Dn099z1"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Dn099z1&layout=compact&theme=dracula&hide_border=true&show_icons=true"/></a>
+        <a href="https://github.com/Dn099z1"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Dn099z1&layout=compact&theme=dracula&hide_border=true&show_icons=true"/></a>
 </div>
 
 ## Comunidade
