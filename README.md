@@ -1,13 +1,14 @@
-<div>
-    <a href="https://github.com/Dn099z1"></a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dn099z1&show_icons=true&theme=tokyonight&include_all_commits=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dn099z1&layout=compact&langs_count=16&theme=tokyonight">
+## Sobre Mim
+Opa, eu sou o Dn, e faço resources com foco na diversidade do FiveM!
+
+
+## Our team
+<div align="center">
+        <a href="https://github.com/Dn099z1"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=thelindat&layout=compact&theme=dracula&hide_border=true&show_icons=true"/></a>
+        <a href="https://github.com/Dn099z1"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=LukeWasTakenn&layout=compact&theme=dracula&hide_border=true&show_icons=true"/></a>
 </div>
 
-<div style="dysplay : inlineblock"><br>
-    <img align="center" alt="Dn-Html" height="40" src="https://media.discordapp.net/attachments/984251406380830730/1082812464497963008/html5-original.png">
-    <img align="center" alt="Dn-Lua" height="40" src="https://cdn.discordapp.com/attachments/984251406380830730/1082812464024006768/lua-original.png">
-    <img align="center" alt="Dn-Js" height="40" src="https://media.discordapp.net/attachments/984251406380830730/1082812465030635590/javascript-original.png">
-    <img align="center" alt="Dn-Css" height="40" src="https://media.discordapp.net/attachments/984251406380830730/1082812464246300762/css3-original.png">
-    <img align="center" alt="Dn-Yodinha" height="60" src="https://cdn.discordapp.com/attachments/984251406380830730/1082817152047915028/Baby-Yoda-Star-Wars-SVG-TB280122013.png">
-<div>
+## Comunidade
+  <p><a href="https://discord.gg/BMKH4FgXeY">
+      <img src="https://img.shields.io/discord/813030955598086174?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+  </a></p>
