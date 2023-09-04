@@ -9,6 +9,6 @@ Opa, eu sou o Dn, e faço resources com foco na diversidade do FiveM!
 </div>
 
 ## DISCORD
-  <p><a href="https://discord.gg/BMKH4FgXeY">
+  <p><a href="https://discord.gg/vQk9yrdsSx">
       <img src="https://img.shields.io/discord/963207024894705674?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
   </a></p>
