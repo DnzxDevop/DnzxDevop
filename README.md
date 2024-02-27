@@ -9,4 +9,4 @@ Developer Focado Em BackEnd E Em API's</div>
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Dn099z1&layout=compact&theme=merko&show_icons=true&hide_border=true"/>
 </div>
 <h3>🌐 Contacts</h3>
-<a href="https://discord.gg/gd6rDRJH"><img src="https://img.shields.io/discord/873627273738203197?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/></a>
+<a href="https://discord.gg/"><img src="https://img.shields.io/discord/873627273738203197?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/></a>
