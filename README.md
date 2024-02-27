@@ -1,9 +1,8 @@
 <h3>Daniel Angelo</h3>
 <p style="text-align:left">
-Um Dev Qualquer?</div>
+Developer Focado Em BackEnd E Em API's</div>
 </p>
-<h3>🔗 Advanced City</h3> 
-https://advancedcityrp.online
+<h3>🔗 None</h3> 
 <br>
 <h3>📌 Advanced NetWork</h3>
 <div style="display:flex;">
