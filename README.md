@@ -1,6 +1,6 @@
 <h3>Daniel Angelo</h3>
 <p style="text-align:left">
-Developer Focado Em BackEnd E Em API's</div>
+Developer Focado Em Frameworks Node Js</div>
 </p>
 <h3>🔗 None</h3> 
 <br>
