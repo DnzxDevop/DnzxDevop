@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://github.com/account)"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1244388642122895424/1285422788689264641/102752827.png?ex=66ea36c2&is=66e8e542&hm=b5a622bd024dc5a8bcda5d71a93b5db80bdd6a4091d7356b8f0154f53d08f33d&"  />
 
 
 ###
@@ -30,6 +30,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dn099z1/Dn099z1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dn099z1/Dn099z1/grid-snake.svg" alt="Snake animation" />
 
 ###
