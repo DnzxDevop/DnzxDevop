@@ -4,7 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dn099z1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Dn099z1&locale=pt-br&mode=daily&theme=gruvbox&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dn099z1&locale=pt-br&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dn099z1&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="125" alt="languages graph"  />
 </div>
 
 ###
