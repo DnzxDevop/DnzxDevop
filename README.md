@@ -24,12 +24,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Dn099z1/Dn099z1/grid-snake.svg" alt="Snake animation" />
-
-###
