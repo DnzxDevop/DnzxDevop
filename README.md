@@ -10,7 +10,7 @@
 
 ###
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nextjs,&perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,nextjs,sass,&perline=3)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=supabase,nestjs,nodejs,&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts,react,lua,&perline=3)](https://skillicons.dev)
 ###
