@@ -1,4 +1,4 @@
-<h3 align="left">Olá 👋! Meu nome é Dnzx sou um desenveolvedor brasileiro dedicado a fivem!</h3>
+<h3 align="left">Olá 👋! Meu nome é Dnzx sou um desenvolvedor brasileiro dedicado a fivem!</h3>
 
 ###
 
