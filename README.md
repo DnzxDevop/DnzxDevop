@@ -10,24 +10,11 @@
 
 ## Skills
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,mysql,sass,nextjs,&perline=3" alt="My Skills" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,nestjs,nodejs,&perline=3" alt="My Skills" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,lua,&perline=3" alt="My Skills" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,mysql,sass,&perline=3" alt="My Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase,nestjs,nodejs,&perline=3" alt="My Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,react,lua,&perline=3" alt="My Skills" /></a>
 </div>
 
-###
-
-<div align="left">
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-</div>
 
 ###
 
