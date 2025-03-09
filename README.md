@@ -1,7 +1,7 @@
 <h3 align="center">Olá 👋! Meu nome é Dnzx, sou um desenvolvedor brasileiro dedicado a Fivem!</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dn099z1&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="125" alt="línguas mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DnzxDevop&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="125" alt="línguas mais usadas" />
 </div>
 
 ###
