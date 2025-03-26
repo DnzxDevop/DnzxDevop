@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42e3f5&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Estudante de Programação com foco em fivem, e desenvolvimento web. Atualmente trabalho com Tecnologias como React, NextJS e NestJS
+<p align="center">I'm dnzx, a programming student with a focus on fivem and web development. I currently work with technologies such as React, NextJS and NestJS
   
 #
 
