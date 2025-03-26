@@ -12,7 +12,7 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./src/dnzx.gif">
+<img align="right" alt="" height="190px" src="dnzx.gif" style="border-radius: 10px;">
 
 <h3 align="left">Connect with me!</h3>
 
