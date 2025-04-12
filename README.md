@@ -58,24 +58,13 @@ I'm a passionate developer specializing in FiveM and web applications. My journe
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DnzxDevop&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=42e3f5&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages" height="180"/>
 </div>
 
-## 🚀 Projects
-
-<div align="center">
-  <a href="https://github.com/DnzxDevop/project-name">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DnzxDevop&repo=project-name&title_color=42e3f5&icon_color=42e3f5&text_color=FFF&bg_color=000&border_color=36123c" />
-  </a>
-  <a href="https://github.com/DnzxDevop/another-project">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DnzxDevop&repo=another-project&title_color=42e3f5&icon_color=42e3f5&text_color=FFF&bg_color=000&border_color=36123c" />
-  </a>
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
   <a href="mailto:angelodnlk@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=42e3f5&color=000" alt="Email" />
   </a>
-  <a href="https://discordapp.com/users/your-discord-id">
+  <a href="https://discordapp.com/users/698295371746771019">
     <img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=42e3f5&color=000" alt="Discord" />
   </a>
   <a href="https://github.com/DnzxDevop">
