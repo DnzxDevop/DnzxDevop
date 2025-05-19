@@ -34,13 +34,13 @@ Sou um desenvolvedor Full-Stack apaixonado por transformar ideias em soluções 
     <td valign="top" width="33%">
       <h3 align="center">🧠 Backend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,mysql,postgres,redis" height="40" />
+        <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,mysql,postgres" height="40" />
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">⚙️ Outros</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=lua,docker,supabase,git,github,figma,vercel" height="40" />
+        <img src="https://skillicons.dev/icons?i=lua,docker,supabase,git,vercel" height="40" />
       </div>
     </td>
   </tr>
