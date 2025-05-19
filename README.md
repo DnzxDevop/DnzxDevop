@@ -52,10 +52,9 @@ Sou um desenvolvedor Full-Stack apaixonado por transformar ideias em soluções 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DnzxDevop&theme=tokyonight&hide_border=false&ring=42e3f5&fire=42e3f5&currStreakLabel=42e3f5" height="180"/>
-  <br />
+
   <img src="https://github-readme-stats.vercel.app/api?username=DnzxDevop&show_icons=true&hide=issues&theme=tokyonight&border_color=42e3f5&icon_color=42e3f5&title_color=42e3f5&text_color=ffffff" height="180"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnzxDevop&layout=compact&hide=html,scss,less&langs_count=8&theme=tokyonight&title_color=42e3f5&text_color=ffffff&border_color=42e3f5" height="180"/>
+ 
 </div>
 
 ---
