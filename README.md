@@ -14,7 +14,7 @@ Sou um desenvolvedor Full-Stack apaixonado por transformar ideias em soluções 
 
 - 🔭 Focado atualmente em **Next.js, NestJS e sistemas escaláveis**
 - 🧠 Estudando arquitetura de software e microsserviços
-- 🕹️ Entusiasta de jogos e desenvolvimento de sistemas para RP
+- 🕹️ Entusiasta de jogos e desenvolvimento de sistemas para Fivem
 - 🚀 Sempre criando com performance e segurança em mente
 
 <br clear="right">
